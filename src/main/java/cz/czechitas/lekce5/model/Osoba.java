@@ -6,9 +6,9 @@ public class Osoba {
     private String jmeno;
     private String prijmeni;
     private String rodneCislo;
-
+    private String soukromyEmail;
+    private String pracovniEmail;
     private Telefon telefon;
-
     public String getJmeno() {
         return jmeno;
     }
